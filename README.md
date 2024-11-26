@@ -27,7 +27,7 @@
   - `http://student-661982-vm1.net.dcs.hull.ac.uk/student/`.
 - **Nginx Configuration**:
   - Configured Nginx to serve the static file at `/student/`.
-  - Set up a basic `server` block for the root domain (`student-661982-vm1.net.dcs.hull.ac.uk`).
+  - Set up a basic `server` block for the root domain (`student-700290-vm1.net.dcs.hull.ac.uk`).
 
 
 - Installed Docker and cloned the repository from `https://github.com/sbrl/SDI-Docker.git`.
